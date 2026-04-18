@@ -3,7 +3,7 @@
 **Türkiye ve dünya e-ticaret sitelerinde stok & fiyat takibi**
 Masaüstü bildirimleri + Discord webhook entegrasyonu.
 
-![Link Hunter arayüzü](preview.png)
+![Link Hunter arayüzü](assets/preview.png)
 
 ---
 
