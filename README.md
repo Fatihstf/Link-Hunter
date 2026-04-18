@@ -12,7 +12,6 @@ Masaüstü bildirimleri + Discord webhook entegrasyonu.
 | Dosya | Açıklama |
 |---|---|
 | `LinkHunter-Setup.zip` | Windows installer (çalıştırılabilir setup.exe'yi içerir) — 99 MB |
-| `screenshot.png` | Uygulama arayüzünün görünümü |
 | `README.md` | Bu dosya |
 
 ---
