@@ -7,18 +7,17 @@ Masaüstü bildirimleri + Discord webhook entegrasyonu.
 
 ---
 
-## Bu klasörde ne var?
+## İndirme
 
-| Dosya | Açıklama |
-|---|---|
-| `LinkHunter-Setup.zip` | Windows installer (çalıştırılabilir setup.exe'yi içerir) — 99 MB |
-| `README.md` | Bu dosya |
+Son sürümü [**Releases**](https://github.com/Fatihstf/Link-Hunter/releases/latest) sayfasından indir:
+
+- [`LinkHunter-Setup.zip`](https://github.com/Fatihstf/Link-Hunter/releases/latest/download/LinkHunter-Setup.zip) — Windows installer (~99 MB)
 
 ---
 
 ## Kurulum
 
-1. **`LinkHunter-Setup.zip`** dosyasını çıkart
+1. İndirdiğin **`LinkHunter-Setup.zip`** dosyasını çıkart
 2. İçinden çıkan **`LinkHunter-Setup-LIMITED-EDITION-TOSPIK.exe`** dosyasına çift tıkla
 3. Kurulum sihirbazı açılınca **"İleri"** → kurulum yolunu seç (varsayılan önerilir) → **"Kur"**
 4. Masaüstü kısayolu ile veya Start Menu'den **Link Hunter**'ı başlat
